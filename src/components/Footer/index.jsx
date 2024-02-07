@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     <footer>
-      <p>© 2021 IOD</p>
+      <p>© 2024 Monkey & Boo</p>
     </footer>
   );
 }
