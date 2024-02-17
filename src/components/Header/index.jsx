@@ -18,7 +18,7 @@ const LogoLink = styled(Link)({
 
 const LogoImg = styled("img")(() => ({
   width: 174,
-  height: 50,
+  height: 100,
   marginRight: 10,
 
   "@media (max-width:640px)": {
